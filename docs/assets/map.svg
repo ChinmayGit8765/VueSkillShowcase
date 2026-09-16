@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="VueSkillShowcase is a stub: Vue 3 skills already live in FinancialServicesDashboard and claude-code-test">
+  <title>VueSkillShowcase — stub pointing at two shipped Vue 3 projects</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/><stop offset="100%" stop-color="#151a2e"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#10b981"/><stop offset="100%" stop-color="#64d2ad"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#18203a"/><stop offset="100%" stop-color="#0d1326"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1280" height="420" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="420" fill="url(#bg)"/>
+    <rect x="0" y="0" width="1280" height="6" fill="url(#bar)"/>
+    <text x="56" y="64" font-size="28" font-weight="800" fill="#ffffff" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">Vue 3 skills, already shipped</text>
+    <text x="56" y="98" font-size="16" fill="#c7cbe0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">This repo is a labelled stub. The Vue work to inspect is in the two public apps below.</text>
+
+    <rect x="56" y="140" width="360" height="220" rx="18" fill="url(#card)" stroke="rgba(16,185,129,0.18)"/>
+    <rect x="56" y="140" width="360" height="4" rx="2" fill="#9aa3bd"/>
+    <text x="80" y="186" font-size="13" font-weight="700" fill="#9aa3bd" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" letter-spacing="1.4">THIS REPO</text>
+    <text x="80" y="230" font-size="20" font-weight="700" fill="#ffffff" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">VueSkillShowcase</text>
+    <text x="80" y="264" font-size="15" fill="#c7cbe0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">Stub — no application code.</text>
+    <text x="80" y="290" font-size="15" fill="#c7cbe0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">Reserved for a dedicated Vue 3 SPA.</text>
+    <text x="80" y="330" font-size="13" fill="#9aa3bd" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">placeholder · README + this diagram</text>
+
+    <rect x="460" y="140" width="360" height="220" rx="18" fill="url(#card)" stroke="rgba(16,185,129,0.40)"/>
+    <rect x="460" y="140" width="360" height="4" rx="2" fill="#10b981"/>
+    <text x="484" y="186" font-size="13" font-weight="700" fill="#64d2ad" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" letter-spacing="1.4">LIVE · VUE 3 SPA</text>
+    <text x="484" y="230" font-size="20" font-weight="700" fill="#ffffff" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">QuantLens dashboard</text>
+    <text x="484" y="264" font-size="15" fill="#c7cbe0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">Vue 3 + Pinia + ECharts</text>
+    <text x="484" y="290" font-size="15" fill="#c7cbe0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">portfolio analytics UI.</text>
+    <text x="484" y="330" font-size="13" fill="#9aa3bd" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">FinancialServicesDashboard</text>
+
+    <rect x="864" y="140" width="360" height="220" rx="18" fill="url(#card)" stroke="rgba(16,185,129,0.40)"/>
+    <rect x="864" y="140" width="360" height="4" rx="2" fill="#10b981"/>
+    <text x="888" y="186" font-size="13" font-weight="700" fill="#64d2ad" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" letter-spacing="1.4">LIVE · VUE 3 + VITE</text>
+    <text x="888" y="230" font-size="20" font-weight="700" fill="#ffffff" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">Task tracker</text>
+    <text x="888" y="264" font-size="15" fill="#c7cbe0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">Vue 3 + Vite components</text>
+    <text x="888" y="290" font-size="15" fill="#c7cbe0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">and pages in a small app.</text>
+    <text x="888" y="330" font-size="13" fill="#9aa3bd" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">claude-code-test</text>
+  </g>
+</svg>

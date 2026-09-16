@@ -15,15 +15,29 @@
 - Right now it is exactly that: a placeholder. There is no application code here yet.
 - The Vue skills it intends to showcase are already demonstrated in two other public repos — linked below — until this one is built out.
 
+## 🎬 See it
+
+<p align="center"><img src="docs/assets/map.svg" alt="VueSkillShowcase is a stub; Vue 3 skills already live in FinancialServicesDashboard and claude-code-test" width="100%"></p>
+<p align="center"><sub>This repo has no app. The Vue work to inspect is in the two public projects on the right.</sub></p>
+
+## 🧠 How this repo relates to the Vue work
+
+```mermaid
+flowchart LR
+    STUB["This repo<br/>labelled stub, no app"] -.-> Q["FinancialServicesDashboard<br/>Vue 3 + Pinia + ECharts"]
+    STUB -.-> T["claude-code-test<br/>Vue 3 + Vite task tracker"]
+    STUB -->|"not built yet"| SPA["Dedicated Vue 3 showcase SPA"]
+```
+
+The two live projects already demonstrate Vue 3. This page will be replaced with real screenshots, a component diagram, and a quick-start once a dedicated showcase app exists.
+
 ## 🧭 Status
 
 | | |
 |---|---|
 | **Stage** | 🚧 Stub — README only, no application code |
-| **What exists** | This README and repo scaffolding |
+| **What exists** | This README, the diagram above, and repo scaffolding |
 | **What's next** | A Vue 3 SPA built specifically as a skills showcase (component design, composition API, state management) |
-
-This page will be replaced with real screenshots, a component diagram, and a quick-start once the app exists. Until then, honesty beats a fake roadmap.
 
 ## 🔗 See the Vue skills now
 
@@ -49,7 +63,7 @@ The showcase this repo will eventually be is already proven out in these two liv
 ```
 VueSkillShowcase/
 ├── README.md          ← you are here
-└── docs/assets/        images used by this README
+└── docs/assets/        hero banner + stub map
 ```
 
 <p align="center"><sub>Built by <a href="https://github.com/ChinmayGit8765">Chinmay</a> · part of the <a href="https://chinmaygit8765.github.io/exaryn-studio/">Exaryn</a> studio</sub></p>
